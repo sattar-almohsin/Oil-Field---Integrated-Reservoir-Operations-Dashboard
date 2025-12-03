@@ -1,4 +1,4 @@
-Volve Field - Integrated Reservoir & Operations Dashboard
+Oil Field - Integrated Reservoir & Operations Dashboard
 
 A professional Streamlit-based web application for reservoir surveillance and well operations analysis using the Volve field production dataset from the Norwegian Continental Shelf.
 
